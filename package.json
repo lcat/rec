@@ -1,0 +1,29 @@
+{
+  "family": "yayue",
+  "name": "rec",
+  "version": "0.0.1",
+  "description": "The best project ever.",
+  "homepage": "https://github.com/Administrator/rec",
+  "author": "lcat",
+  "maintainers": [
+    "lcat"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Administrator/rec.git"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [],
+  "licenses": "MIT",
+  "spm": {
+    "output": ["rec.js"],
+    "alias": {
+      "$": "$",
+      "popup": "arale/popup/1.1.6/popup"
+      },
+    "devAlias": {},
+    "engines": {}
+  }
+}
